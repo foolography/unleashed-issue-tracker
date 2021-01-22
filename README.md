@@ -1,6 +1,6 @@
 # Unleashed's public issue tracker
 
-In this repository you can find the official issue tracker for the [Unleashed](https://www.foolography.com/products/unleashed/). The project board where you can get an overview of the pending, in-progress and closed issues can be found [here](https://github.com/foolography/unleashed/projects/1).
+In this repository you can find the official issue tracker for the [Unleashed](https://www.foolography.com/products/unleashed/). The project board where you can get an overview of the pending, in-progress and closed issues can be found [here](https://github.com/foolography/unleashed-issue-tracker/projects/1).
 
 If you encounter any problems with your Unleashed, please check out our [community](https://www.foolography.com/community/) where you can get help from other Unleashed users and Foolography engineers directly.
 
